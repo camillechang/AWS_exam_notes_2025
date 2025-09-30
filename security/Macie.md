@@ -1,0 +1,1 @@
+It can identify PII, but it does not mask or transform the data. Its primary function is to classify and report on the location of sensitive data,

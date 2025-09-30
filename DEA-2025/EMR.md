@@ -1,0 +1,2 @@
+**AWS Graviton** instances offer better price-performance for many workloads, meaning you get more performance for your money compared to x86-based instances,
+**EMR**对 TB 级的归档数据，需要高吞吐、分布式处理（Spark/Hadoop），EMR 是成熟且可扩展的选择，能一次性并行处理大量数据。

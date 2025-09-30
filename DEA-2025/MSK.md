@@ -1,0 +1,1 @@
+-**Amazon Managed Streaming for Apache Kafka (Amazon MSK)** 是 AWS 提供的 全托管 Apache Kafka 服务，让用户可以在云中轻松创建、运行和扩展 Kafka 集群，而无需自行管理底层基础设施。它保留了 Apache Kafka 的所有核心功能，同时提供 AWS 的安全、监控和自动化能力，减少运维负担。
